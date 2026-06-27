@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://i.imgur.com/j3SP4BS.png" tvg-id="Antena3.es" group-title="Generalistas",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
+https://directo.atresmedia.com/1591824037_303c6b24e55499ab3baf08e854eef02955eec791/antena3/master.m3u8
 #EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-id="Cuatro.es" group-title="Generalistas",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://i.imgur.com/JECsKdk.png" tvg-id="Telecinco.es" group-title="Generalistas",Telecinco
